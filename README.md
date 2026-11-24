@@ -1,6 +1,6 @@
 # KESO-STFP Replication Package
 
-Supplementary material for **“Knowledge Engineering for Search and Optimization: From Expert Knowledge to Auditable and Executable Models.”**
+Supplementary material for **“Knowledge Engineering for Search and Optimization: From Expert Knowledge to Versioned Optimization Models for Software Team Formation.”**
 
 The paper introduces **Knowledge Engineering for Search and Optimization (KESO)** and instantiates it for the Software Team Formation Problem (STFP). Package version **1.3.0** contains de-identified experimental results, fixed-candidate evaluator-sensitivity data and analysis, a versioned knowledge-change record, reference benchmark runners, a sanitized solver log, verification scripts, and a non-nominal account of the expert follow-up.
 
